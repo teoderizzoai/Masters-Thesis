@@ -3,8 +3,9 @@
 **Author:** Matteo De Rizzo  
 **Supervised by:** Prof. Jan Treur  
 **Degree:** MSc in Information Sciences  
-**Institution:** Vrije Universiteit Amsterdam  
-📅 April 13, 2025
+**Institution:** Vrije Universiteit Amsterdam 
+📚 Published in: *AIAI 2025 – Artificial Intelligence Applications and Innovations*  
+📅 March 13, 2025
 
 ---
 
